@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+.input-area {
+  background-color: #c1ffff;
+}
+
+.incomplete {
+  background-color: #c6ffe2;
+  width: 400px;
+}
+
+.completed {
+  background-color: #ffffe0;
+}
